@@ -2,6 +2,8 @@
 
 Store the simple script for mesh generation
 
+[Demo video](https://www.youtube.com/watch?v=yin2ZlYlQVs&t=7s)
+
 ## Prerequisites
 
 - Windows Subsystem for Linux (WSL)
